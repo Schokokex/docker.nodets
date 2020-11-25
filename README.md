@@ -7,5 +7,7 @@ use your own GIT_URL
 it should be an initiated npm project (at least have a package.json), found in the git url in Project path.
 
 the project must have a npm start command
+
 it may have an npm test command
+
 it may have an npm build command
