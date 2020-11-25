@@ -8,6 +8,6 @@ it should be an initiated npm project (at least have a package.json), found in t
 
 the project must have a npm start command
 
-it may have an npm test command
+it may have a npm test command
 
-it may have an npm build command
+it may have a npm build command
